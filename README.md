@@ -5,7 +5,7 @@ GitHub Organization Secrets (ghos), provides a simple way to manage [organizatio
 # Installation
 
 ```
-https://github.com/jasonwalsh/ghos.git && cd ghos
+git clone https://github.com/jasonwalsh/ghos.git && cd ghos
 python setup.py install
 ```
 
